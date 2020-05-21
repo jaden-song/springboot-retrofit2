@@ -18,3 +18,5 @@ BASE_URL 은 반드시 '/' 로 끝나야 한다. 아니면 아래와 같은 에�
 스프링의 Rest 는 크게 구분이 없어도 동작하지만 Retrofit 은 규약을 지켜야 한다.
 
 ![](img/retrofit.png)
+
+참고 : <https://inthecheesefactory.com/blog/retrofit-2.0/en>
